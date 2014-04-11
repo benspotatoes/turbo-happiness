@@ -1,0 +1,3 @@
+[submodule "env/dotfiles"]
+	path = env/dotfiles
+	url = git@github.com:sicophrenic/dotfiles
